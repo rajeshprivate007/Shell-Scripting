@@ -4,7 +4,7 @@
 #Author: Rajesh kumar Sahu
 #Date: 25th December 2024
 #
-#The script will check if docker status is active or not if not it will start the docker. We will schedule the script using Crontab.
+#The script will CPU load of the system.
 #
 #Version: v1
 #
